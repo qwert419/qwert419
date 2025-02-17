@@ -135,10 +135,6 @@ Here are some ideas to get you started:
     <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>
 </p>
 
-
-- 📫 How to reach me: ✉️ [Email](mailto:276558492@qq.com) OR ![Wechat](https://img.shields.io/badge/Alex5198023-5fcd72.svg?logo=wechat&logoColor=white)
-- 💬 Ask me about anything, I am happy to help;
-
 🏆 **Certificate:**
 
 - [RHCSA](https://rhtapps.redhat.com/verify?certId=190-230-177)
