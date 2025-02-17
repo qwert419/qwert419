@@ -139,8 +139,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ✉️ [Email](mailto:276558492@qq.com) OR ![Wechat](https://img.shields.io/badge/Alex5198023-5fcd72.svg?logo=wechat&logoColor=white)
 - 💬 Ask me about anything, I am happy to help;
 
-> 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://pudongping.github.io/medias/reward/wechat.png" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://pudongping.github.io/medias/reward/alipay.png" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a> 👈
-
 🏆 **Certificate:**
 
 - [RHCSA](https://rhtapps.redhat.com/verify?certId=190-230-177)
@@ -162,8 +160,6 @@ No activity tracked
 <br/>
 
 ---
-
-![佛系开发](imgs/buddhist-dev.png)
 
 ---
 
