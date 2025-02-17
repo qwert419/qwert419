@@ -21,21 +21,6 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Full+Stack+web+developer;Self-taught+Code+Designer;Always+learning+new+things">
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
-    <img src="https://img.shields.io/static/v1?label=wechat&message=Alex5198023&color=7BB32E&logo=wechat">
-    <a href="https://pudongping.github.io" target="_blank"><img src="https://img.shields.io/badge/website-pudongping.github.io-orange"></a>
-    <img style="border-radius: 2px;" src="https://hits.dwyl.com/pudongping/pudongping/pudongping.svg?style=flat" alt="visitors">
-
-[comment]: <> ( if the badge is down, try this website https://vbr.wocr.tk/badge?page_id=pudongping.pudongping&style=plastic&lcolor=590d22&logo=Github&hit=false but this page maybe have bug)
-[//]: # (    <img src="https://vbr.wocr.tk/badge?page_id=pudongping.pudongping&style=plastic&lcolor=590d22&logo=Github&hit=false" alt="visitors">)
-
-</p>
-
 <br/>
 
 🎉 **Welcome to my GitHub profile!**
