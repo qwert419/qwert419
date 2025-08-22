@@ -127,15 +127,6 @@ Here are some ideas to get you started:
 
 
 <!-- waka readme - https://github.com/athul/waka-readme -->
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```txt
-From: 01 July 2024 - To: 08 July 2024
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <br/>
