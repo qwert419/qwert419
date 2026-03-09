@@ -1,13 +1,4 @@
-## Hi there 👋
 
-<h3 align="center">
-    Hi~ Thank you for coming!
-    <img src="./imgs/hands.webp" width="25px" alt="Hi">
-</h3>
-
-<br/>
-
-<div align="center">
 
 🎉 **Welcome to my GitHub profile!**
 
